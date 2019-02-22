@@ -1,4 +1,4 @@
-News App(Ionic,Angular)
+News Articles and Updates Mobile Application
 =============
 
 About Application
