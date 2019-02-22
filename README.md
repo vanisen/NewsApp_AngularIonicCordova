@@ -22,13 +22,13 @@ Step-1: Donwload and Install java sdk and android sdk
 Step-2: Set environment variable for JAVA_HOME and ANDROID_HOME
 Step-3: Download and Install Node.js
 Step-4: npm install -g ionic cordova
-Step-4: Unzip the code and put in your workspace
-Step-5: Open project and change directory to the root folder
-Step-6: Connect the device with usb cable
-Step-7: Build the app (ionic cordova build android)
-Step-8: Launch the app on the device (ionic cordova run android)
+Step-5: Unzip the code and put in your workspace
+Step-6: Open project and change directory to the root folder
+Step-7: Connect the device with usb cable
+Step-8: Build the app (ionic cordova build android)
+Step-9: Launch the app on the device (ionic cordova run android)
 
 Login Details in News app
 ---------------------------------
-Step-1: User Name : David
-Step-2: Password : Temp@123
+User Name : David
+Password : Temp@123
